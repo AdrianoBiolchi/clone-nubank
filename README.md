@@ -1,4 +1,6 @@
+<p align="center">
 <img align="center" width="250" height="444" src="screen.gif">
+</p>
 <br />
 <p align="center">
   <h1 align="center">Clone Interface Nubank</h1>
