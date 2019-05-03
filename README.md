@@ -1,6 +1,7 @@
 <p align="center">
 <img align="center" width="250" height="444" src="screen.gif">
-> PS: O saldo poderia ser verdadeiro :smile:
+<br />
+<blockquote>PS: O saldo poderia ser verdadeiro :smile:</blockquote>
 </p>
 <br />
 <p align="center">
