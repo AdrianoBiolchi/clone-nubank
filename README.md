@@ -1,7 +1,7 @@
 
 <br />
 <p align="center">
-  <h3 align="center">Clone Interface Nubank</h3>
+  <h1 align="center">Clone Interface Nubank</h1>
 </p>
 
 ## Tutorial
