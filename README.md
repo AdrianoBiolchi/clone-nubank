@@ -6,7 +6,7 @@
 
 ## Tutorial
 
-Você pode encontrar o vídeo completo desse projeto na **[Video Oficial](https://www.youtube.com/watch?v=DDm0M_rZLJo)**.
+Você pode encontrar o vídeo completo desse projeto no **[Youtube](https://www.youtube.com/watch?v=DDm0M_rZLJo)**.
 
 <!-- CONTRIBUTING -->
 
