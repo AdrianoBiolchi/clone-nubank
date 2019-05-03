@@ -1,6 +1,6 @@
-<p align="center">
+
   ![](screen.gif)
-</p>
+
 <br />
 <p align="center">
   <h1 align="center">Clone Interface Nubank</h1>
