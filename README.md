@@ -4,9 +4,9 @@
   <h3 align="center">Clone Interface Nubank</h3>
 </p>
 
-## Documentação
+## Tutorial
 
-Você pode encontrar a documentação completa desse projeto na **[Documentação Oficial](https://docs.rocketseat.dev/react-native-template-basic/introducao)**.
+Você pode encontrar o vídeo completo desse projeto na **[Documentação Oficial](https://www.youtube.com/watch?v=DDm0M_rZLJo)**.
 
 <!-- CONTRIBUTING -->
 
