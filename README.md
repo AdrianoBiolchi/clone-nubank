@@ -1,6 +1,4 @@
-
-  ![](screen.gif)
-
+<img align="right" width="100" height="100" src="screen.gif">
 <br />
 <p align="center">
   <h1 align="center">Clone Interface Nubank</h1>
